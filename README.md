@@ -120,6 +120,5 @@ PhD Thesis ───────────────────────
 ---
 
 <p align="center">
-  <a href="https://linkedin.com/in/ahirtonlopes">LinkedIn</a> ·
-  <a href="mailto:ahirtonlopes@gmail.com">Email</a>
+  <a href="https://linkedin.com/in/ahirtonlopes">LinkedIn</a>
 </p>

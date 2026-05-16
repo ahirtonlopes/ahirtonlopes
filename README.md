@@ -37,6 +37,8 @@ PhD Thesis ───────────────────────
   Universidade Presbiteriana Mackenzie
 ```
 
+📄 [Read the full thesis](https://dspace.mackenzie.br/items/6e505bd8-758d-49c3-896a-13eef247d00f) · [ResearchGate profile](https://www.researchgate.net/profile/Jose-Ahirton-Lopes-Filho)
+
 ---
 
 ### Featured Projects

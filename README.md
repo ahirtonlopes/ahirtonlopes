@@ -163,27 +163,31 @@ PUBLIC SPEAKING    ███████████████████░ 
 ```
 
 ```
-PhD THESIS ──────────────────────────────────────────────────
-  Early Detection of Students at Risk of Dropout
-  Using Administrative Data and Machine Learning
-  Universidade Presbiteriana Mackenzie
+PhD THESIS · 2021 ───────────────────────────────────────────
+  Detecção de Estudantes em Risco de Evasão Escolar
+  Usando Aprendizagem de Máquina
+  Engenharia Elétrica e Computação · Mackenzie
 ```
 
 ```
-MSc DISSERTATION ────────────────────────────────────────────
-  Published in full · Universidade Presbiteriana Mackenzie
+MSc DISSERTATION · 2016 ─────────────────────────────────────
+  Classificação de Gênero em Dados do Twitter
+  Baseada na Extração de Meta-Atributos Textuais
+  Engenharia Elétrica · Mackenzie
 ```
 
 ```
-DRONE RESEARCH PROJECT ──────────────────────────────────────
-  Universidade Presbiteriana Mackenzie
+RESEARCH PROJECT · 2018 ─────────────────────────────────────
+  An Investigation into Self-Organization
+  in a Swarm of UAVs
+  Mackenzie · Natural Computing · Swarm Intelligence
 ```
 
 | Citations | h-index | i10-index | Publications |
 |:---------:|:-------:|:---------:|:------------:|
 | 63 | 4 | 1 | 10+ |
 
-[📄 PhD Thesis](https://dspace.mackenzie.br/items/fc030abb-82b8-4e6d-af57-4085f2a0efda) · [📄 MSc Dissertation](https://dspace.mackenzie.br/items/68ec28a3-485a-4290-a0e9-a3fa5f021758) · [📄 Drone Research](https://dspace.mackenzie.br/items/19a69a0f-9fa4-4624-909b-0e20d8f9d0d0) · [Google Scholar](https://scholar.google.com/citations?user=1SQDVrwAAAAJ) · [ResearchGate](https://www.researchgate.net/profile/Jose-Ahirton-Lopes-Filho)
+[📄 PhD Thesis](https://dspace.mackenzie.br/items/fc030abb-82b8-4e6d-af57-4085f2a0efda) · [📄 MSc Dissertation](https://dspace.mackenzie.br/items/68ec28a3-485a-4290-a0e9-a3fa5f021758) · [📄 UAV Research](https://dspace.mackenzie.br/items/19a69a0f-9fa4-4624-909b-0e20d8f9d0d0) · [Google Scholar](https://scholar.google.com/citations?user=1SQDVrwAAAAJ) · [ResearchGate](https://www.researchgate.net/profile/Jose-Ahirton-Lopes-Filho)
 
 ---
 

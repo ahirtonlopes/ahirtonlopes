@@ -6,7 +6,7 @@
 ██████████████████████████████████████████████████████████████████
 █                                                                █
 █   PLAYER 1    ♥♥♥♥♥   LVL 99   XP ████████████████████ MAX   █
-█   916 FOLLOWERS · 198 REPOS · PhD EE · MACKENZIE              █
+█   931 FOLLOWERS · 204 REPOS · PhD EE · MACKENZIE              █
 █                                                                █
 ██████████████████████████████████████████████████████████████████
 ```
@@ -86,14 +86,14 @@ PUBLIC SPEAKING    ███████████████████░ 
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=ahirtonlopes&show_icons=true&theme=chartreuse-dark&border_color=00FF41&title_color=00FF41&icon_color=00FF41&text_color=aaffaa&bg_color=0a0a0a&rank_icon=github" />
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahirtonlopes&layout=compact&theme=chartreuse-dark&border_color=00FF41&title_color=00FF41&text_color=aaffaa&bg_color=0a0a0a" />
+<img height="155" src="https://github-readme-stats.zohan.tech/api?username=ahirtonlopes&show_icons=true&theme=chartreuse-dark&border_color=00FF41&title_color=00FF41&icon_color=00FF41&text_color=aaffaa&bg_color=0a0a0a&rank_icon=github" />
+<img height="155" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=ahirtonlopes&layout=compact&theme=chartreuse-dark&border_color=00FF41&title_color=00FF41&text_color=aaffaa&bg_color=0a0a0a" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahirtonlopes&theme=dark&background=0a0a0a&border=00FF41&stroke=00FF41&ring=00FF41&fire=ffff00&currStreakNum=00FF41&sideNums=aaffaa&currStreakLabel=ffff00&sideLabels=aaffaa&dates=444444" />
+<img src="https://streak-stats.demolab.com/?user=ahirtonlopes&theme=dark&background=0a0a0a&border=00FF41&stroke=00FF41&ring=00FF41&fire=ffff00&currStreakNum=00FF41&sideNums=aaffaa&currStreakLabel=ffff00&sideLabels=aaffaa&dates=444444" />
 
 </div>
 

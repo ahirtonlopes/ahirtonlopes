@@ -93,7 +93,7 @@ PUBLIC SPEAKING    ███████████████████░ 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=ahirtonlopes&theme=dark&background=0a0a0a&border=00FF41&stroke=00FF41&ring=00FF41&fire=ffff00&currStreakNum=00FF41&sideNums=aaffaa&currStreakLabel=ffff00&sideLabels=aaffaa&dates=444444" />
+<img src="https://streak-stats.vercel.app/?user=ahirtonlopes&theme=dark&background=0a0a0a&border=00FF41&stroke=00FF41&ring=00FF41&fire=ffff00&currStreakNum=00FF41&sideNums=aaffaa&currStreakLabel=ffff00&sideLabels=aaffaa&dates=444444" />
 
 </div>
 

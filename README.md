@@ -15,7 +15,7 @@
 [![MVP](https://img.shields.io/badge/Microsoft_MVP-AI-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://mvp.microsoft.com)
 [![FIAP](https://img.shields.io/badge/Professor-FIAP-ED1C24?style=flat-square)](https://fiap.com.br)
 [![PhD](https://img.shields.io/badge/PhD-Mackenzie-003B71?style=flat-square)](https://dspace.mackenzie.br/items/fc030abb-82b8-4e6d-af57-4085f2a0efda)
-[![Scholar](https://img.shields.io/badge/Scholar-63_Citations-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=1SQDVrwAAAAJ)
+[![Scholar](https://img.shields.io/badge/Scholar-67_Citations-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=1SQDVrwAAAAJ)
 
 </div>
 
@@ -185,7 +185,7 @@ RESEARCH PROJECT · 2018 ──────────────────�
 
 | Citations | h-index | i10-index | Publications |
 |:---------:|:-------:|:---------:|:------------:|
-| 63 | 4 | 1 | 10+ |
+| 67 | 4 | 1 | 10+ |
 
 [📄 PhD Thesis](https://dspace.mackenzie.br/items/fc030abb-82b8-4e6d-af57-4085f2a0efda) · [📄 MSc Dissertation](https://dspace.mackenzie.br/items/68ec28a3-485a-4290-a0e9-a3fa5f021758) · [📄 UAV Research](https://dspace.mackenzie.br/items/19a69a0f-9fa4-4624-909b-0e20d8f9d0d0) · [Google Scholar](https://scholar.google.com/citations?user=1SQDVrwAAAAJ) · [ResearchGate](https://www.researchgate.net/profile/Jose-Ahirton-Lopes-Filho)
 
